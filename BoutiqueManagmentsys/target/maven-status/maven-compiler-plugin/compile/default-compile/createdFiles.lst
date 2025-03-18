@@ -1,0 +1,13 @@
+BoutiqueManagmentsys\BoutiqueManagmentsys\App.class
+BoutiqueManagmentsys\model\Product.class
+BoutiqueManagmentsys\model\package-info.class
+BoutiqueManagmentsys\Service\ProductServiceImpl.class
+BoutiqueManagmentsys\BoutiqueManagmentsys\ProductController.class
+BoutiqueManagmentsys\Service\package-info.class
+BoutiqueManagmentsys\model\Order.class
+BoutiqueManagmentsys\DAO\ProductDAOImpl.class
+BoutiqueManagmentsys\Service\ProductService.class
+BoutiqueManagmentsys\DAO\ProductDAO.class
+BoutiqueManagmentsys\model\User.class
+BoutiqueManagmentsys\DAO\package-info.class
+BoutiqueManagmentsys\BoutiqueManagmentsys\ProductMagntController.class
